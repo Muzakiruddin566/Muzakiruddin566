@@ -19,21 +19,21 @@
 
 - 📫 How to reach me **muzakiruddin78@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TSFHItBGviw3fLdUfrKJiWHeFkvQVg6v/view?usp=sharing](https://drive.google.com/file/d/1TSFHItBGviw3fLdUfrKJiWHeFkvQVg6v/view?usp=sharing)
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1TSFHItBGviw3fLdUfrKJiWHeFkvQVg6v/view?usp=sharing](https://drive.google.com/file/d/1TSFHItBGviw3fLdUfrKJiWHeFkvQVg6v/view?usp=sharing)"> <b>Resume </b></a>
 
 - ⚡ Fun fact **I use tabs over spaces**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/muzakiruddin566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/muzakiruddin566" height="30" width="40" /></a>
+<a href="https://dev.to/muzakiruddin566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/muzakiruddin566" height="30" width="40" /></a>
 <a href="https://twitter.com/muzakirhashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muzakirhashmi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muzakir-ud-din-61277a178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muzakir-ud-din-61277a178" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18503387/muzakir-uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18503387/muzakir-uddin" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/zikar.hashmi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zikar.hashmi/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/muzakir_hashmi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muzakir_hashmi/" height="30" width="40" /></a>
-<a href="https://medium.com/@muzakiruddin78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muzakiruddin78" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/muzakiruddin78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/muzakiruddin78/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discordapp.com/users/590579054965555201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/590579054965555201" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muzakir-ud-din-61277a178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muzakir-ud-din-61277a178" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18503387/muzakir-uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18503387/muzakir-uddin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/zikar.hashmi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zikar.hashmi/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/muzakir_hashmi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muzakir_hashmi/" height="30" width="40" /></a>
+<a href="@muzakiruddin78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muzakiruddin78" height="30" width="40" /></a>
+<a href="https://leetcode.com/muzakiruddin78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/muzakiruddin78/" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/590579054965555201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/590579054965555201" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
