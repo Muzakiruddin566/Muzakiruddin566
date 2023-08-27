@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 👨‍💻 All of my projects are available at [NA](NA)
+- 👨‍💻 All of my projects are available at [NA]
 
-- 📝 I regularly write articles on [https://medium.com/@muzakiruddin78](https://medium.com/@muzakiruddin78)
+- 📝 I regularly write articles on [Medium](https://medium.com/@muzakiruddin78)
 
 - 💬 Ask me about **anything related to MERN Stack, Web3.O or Blockchain related technologies**
 
 - 📫 How to reach me **muzakiruddin78@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1TSFHItBGviw3fLdUfrKJiWHeFkvQVg6v/view?usp=sharing](https://drive.google.com/file/d/1TSFHItBGviw3fLdUfrKJiWHeFkvQVg6v/view?usp=sharing)"> <b>Resume </b></a>
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1TSFHItBGviw3fLdUfrKJiWHeFkvQVg6v/view?usp=sharing)
 
 - ⚡ Fun fact **I use tabs over spaces**
 
