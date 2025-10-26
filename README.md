@@ -39,16 +39,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Contributions-5,900%2B-green?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Followers-700%2B-lightgrey?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stars-250%2B-orange?style=for-the-badge&logo=starship&logoColor=white" />
   <img src="https://img.shields.io/badge/Activity_Level-🔥_High-red?style=for-the-badge" />
 </p>
 
-<p align="center">
-🔥 **Commit Activity:** ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱ 75%  
-🚀 **PRs & Merges:** ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱ 85%  
-🌟 **Community Growth:** ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ 95%
-</p>
+
 
 ---
 
