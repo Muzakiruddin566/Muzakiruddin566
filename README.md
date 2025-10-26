@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muzakir Uddin</h1>
-<h3 align="center">💻 Full-Stack Developer | Founder & Tech Visionary | Crafting Scalable AI-Powered Web Solutions</h3>
+<h3 align="center">💻 Full-Stack Developer | Founder & Tech Visionary | Building Scalable AI-Powered Products</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muzakiruddin566&label=Profile%20views&color=blue&style=flat-square" alt="profile views" />
@@ -10,8 +10,8 @@
 ### 🧠 About Me  
 - 🔭 I’m currently working on [**EarthBirder**](https://earthbirder.com/)  
 - 🌱 Exploring **AI, ML, Cloud-native & Microservice Architectures**  
-- 💬 Ask me about **MERN Stack, NestJS, Web3 and Blockchain**  
-- 🧩 Building products using **LangGraph | RAG | Vector DBs | Azure AI**  
+- 💬 Ask me about **MERN Stack, NestJS, Web3, Blockchain, and RAG pipelines**  
+- 🧩 Passionate about **LangGraph | Azure AI | Vector DBs | Microservices**  
 - 📫 Reach me at **muzakiruddin78@gmail.com**  
 - 📄 View my Resume → [**Click Here**](https://drive.google.com/file/d/1TSFHItBGviw3fLdUfrKJiWHeFkvQVg6v/view?usp=sharing)  
 - ⚡ Fun fact → **I prefer tabs over spaces 😎**
@@ -21,7 +21,7 @@
 ### 🏆 My Developer Stats
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-2000%2B-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Commits-10k%2B-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Commits-10,000%2B-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Issues-800%2B-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Projects-45-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Experience-10%2B_Years-purple?style=for-the-badge" />
@@ -29,14 +29,25 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics (Static)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzakiruddin566&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzakiruddin566&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://img.shields.io/badge/Total_Commits-10,000%2B-success?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs_Merged-2,000%2B-blue?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Issues_Resolved-800%2B-yellow?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-45%2B-orange?style=for-the-badge&logo=codefactor&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muzakiruddin566&theme=tokyonight&hide_border=false" height="180px" />
+  <img src="https://img.shields.io/badge/Contributions-5,900%2B-green?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-700%2B-lightgrey?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-250%2B-orange?style=for-the-badge&logo=starship&logoColor=white" />
+  <img src="https://img.shields.io/badge/Activity_Level-🔥_High-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+🔥 **Commit Activity:** ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱ 75%  
+🚀 **PRs & Merges:** ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱ 85%  
+🌟 **Community Growth:** ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ 95%
 </p>
 
 ---
